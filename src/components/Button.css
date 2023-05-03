@@ -1,0 +1,13 @@
+.button-wrapper {
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    background-color: #59a4b1;
+    color: rgb(250, 247, 247);
+    flex: 1;
+  
+    margin: 4px;
+    border-radius: 25px;
+  }
